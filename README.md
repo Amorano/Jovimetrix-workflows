@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="res/logo-jovimetrix.png">
-  <source media="(prefers-color-scheme: light)" srcset="res/logo-jovimetrix-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Amorano/Jovimetrix-examples/blob/master/res/logo-jovimetrix.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Amorano/Jovimetrix-examples/blob/master/res/logo-jovimetrix-light.png">
   <img alt="Help and Workflow Examples to use with Jovimetrix ComfyUI Nodes">
 </picture>
 <h4 align="center">Onarom. Omnia, Omnibus.</h4>
